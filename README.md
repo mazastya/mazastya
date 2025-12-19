@@ -1,10 +1,19 @@
-## Hi there 👋
+<!--
+[![mazastya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazastya)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode Stats](https://leetcode-status.vercel.app/api/card/mazastya?theme=dark&layout=card&border=true&hide_title=false&logo=true&animation=true&animation_duration=2s&show_stats=false&font=Roboto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazastya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+<div align="center">
+  
+# 👋 Hi! My name is Anastasia
+
+**Middle C#/.NET Developer | Full-stack**
 
 <!--
 **mazastya/mazastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
